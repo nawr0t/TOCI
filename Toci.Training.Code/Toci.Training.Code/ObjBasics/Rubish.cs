@@ -9,7 +9,7 @@ namespace Toci.Training.Code.ObjBasics
         {
         }
 
-
+        Activator
         public void test()
         {
             List<int> list = new List<int>();
