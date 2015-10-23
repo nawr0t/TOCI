@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace Toci.Training.Code.ObjBasics
 {
-    public class Rubish
+    public class Rubbish
     {
-        public Rubish()
+        public Rubbish()
         {
         }
 

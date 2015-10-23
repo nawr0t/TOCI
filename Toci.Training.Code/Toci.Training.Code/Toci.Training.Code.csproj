@@ -40,7 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ObjBasics\Rubish.cs" />
+    <Compile Include="ObjBasics\InterfacesExtending\ITelephoneCommunication.cs" />
+    <Compile Include="ObjBasics\Rubbish.cs" />
+    <Compile Include="ObjBasics\TelephoneCommunication\PhotoCommunication.cs" />
+    <Compile Include="ObjBasics\TelephoneCommunication\SmsCommunication.cs" />
+    <Compile Include="ObjBasics\TelephoneCommunication\Telephone.cs" />
+    <Compile Include="ObjBasics\TelephoneCommunication\VoiceCommunication.cs" />
+    <Compile Include="ObjBasics\TelephoneTask\MyHomeWork.cs" />
+    <Compile Include="ObjBasics\TelephoneTask\TelephoneInterpreter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
