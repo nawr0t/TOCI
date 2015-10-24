@@ -22,7 +22,7 @@ namespace Toci.Training.Code.ObjBasics.TelephoneTask
                 PhotoCommunication photoCommunication = new PhotoCommunication();
                 return photoCommunication;
             }
-            else return null;
+            return null;
         }
 
         protected override string MyNick()

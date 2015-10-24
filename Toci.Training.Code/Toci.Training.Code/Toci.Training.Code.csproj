@@ -42,14 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ObjBasics\InterfacesExtending\ITelephoneCommunication.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\TasksTrainingTwo\GhostRiderStringManipulationsBase.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\TasksTrainingTwo\PeselValidator.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\TasksTrainingTwo\StringManipulationsResults.cs" />
     <Compile Include="ObjBasics\Rubbish.cs" />
     <Compile Include="ObjBasics\TelephoneCommunication\PhotoCommunication.cs" />
     <Compile Include="ObjBasics\TelephoneCommunication\SmsCommunication.cs" />
     <Compile Include="ObjBasics\TelephoneCommunication\Telephone.cs" />
     <Compile Include="ObjBasics\TelephoneCommunication\VoiceCommunication.cs" />
-    <Compile Include="ObjBasics\TelephoneTask\MyHomeWork.cs" />
-    <Compile Include="ObjBasics\TelephoneTask\TelephoneInterpreter.cs" />
-    <Compile Include="ObjBasics\TelephoneTask\TelephoneInterpreterTest.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\MyHomeWork.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\TelephoneInterpreter.cs" />
+    <Compile Include="ObjBasics\MyWork\TelephoneTask\TelephoneInterpreterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
